@@ -14,7 +14,7 @@ public class pattern2 {
             System.out.println(); // Move to the next line after printing stars
         }
         
-        scanner.close(); // Close the scanner to prevent resource leaks
+        scanner.close(); // Close the scanner to prevent resource leak
     }
 }
 
